@@ -1,5 +1,5 @@
 # Train-Management-System-FS-VTU-6th-
-# Train Search Program
+## Train Search Program
 
 This program is designed to make the search for trains easier for the user. It is implemented in the C programming language and incorporates file handling and the linked list data structure for searching and sorting train and route data. The program also includes a basic GUI to facilitate user interaction.
 
